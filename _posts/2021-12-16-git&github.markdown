@@ -32,7 +32,7 @@ git push
 {% endhighlight %}
 
 
-네
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
